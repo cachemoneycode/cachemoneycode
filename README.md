@@ -1,9 +1,10 @@
-## Hey 👋
+## 💵 CacheMoney
+<img src="https://github.com/cachemoneycode/cachemoneycode/assets/173974217/0747d335-0d45-4027-ae61-9bbd779e2d46" title="CacheMoney"  alt="CacheMoney" width="200" height="200"/>
 
 ### About Me:    
 I ♥️ Poker
 
-💵 Codename: <b>CacheMoney</b>, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
+💰 Codename: CacheMoney, programmer, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
 
 🎉 Just for fun
 
