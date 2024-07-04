@@ -44,6 +44,13 @@
 
 ### Operating Systems
 
-| Ubuntu | Umbrel | Mac OSX
+| Ubuntu | Umbrel | Mac OSX |
 |----------|----------|-------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> |  <img src="https://github.com/getumbrel/umbrel/blob/master/packages/ui/public/figma-exports/umbrel-ios.png" title="Umbrel" alt="Umbrel" width="55" height="55"/> |   <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" title="Mac" alt="Mac" width="55" height="55"/> |  
+
+### Money
+
+| Bitcoin | Lightning | Liquid |
+|----------|----------|-------|
+| <img src="https://bitcoin.org/img/icons/opengraph.png" title="Bitcoin"  alt="Bitcoin" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Bitcoin_lightning_logo.svg" title="Lightning"  alt="Lightning" width="55" height="55"/>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk50LHRKa7ulT0w-K8UP0RRdXI-VTHo6uzbw&s" title="Liquid"  alt="Liquid" width="55" height="55"/>|
+
