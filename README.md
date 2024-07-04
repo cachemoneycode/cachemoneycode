@@ -4,7 +4,7 @@
 ### About Me:    
 🃏 I ♥️ Poker
 
-💰 [Cypherpunk]<b>CacheMoney</b>, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), software for the people
+💰 <b>[Cypherpunk]</b>CacheMoney, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), software for the people
 
 🎉 Just for fun
 
