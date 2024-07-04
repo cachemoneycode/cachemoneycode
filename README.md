@@ -4,7 +4,7 @@
 ### About Me:    
 I ♥️ Poker
 
-💰 Codename: CacheMoney, programmer, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
+💰 Codename: CacheMoney, cypherpunk, programmer, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
 
 🎉 Just for fun
 
