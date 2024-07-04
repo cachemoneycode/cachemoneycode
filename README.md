@@ -8,7 +8,7 @@ I ♥️ Poker
 
 🎉 Just for fun
 
-🖕 Also, fuck unfair, rigged, closed source RNG poker software
+🖕 Also, fuck unfair, rigged, company proprietary, closed source RNG poker software
 
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
