@@ -10,6 +10,7 @@ I ♥️ Poker
 
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
+- Web applications, databases, peer-to-peer distributed networks, network security, games
 
 ## Languages, Frameworks and Tools 
 
