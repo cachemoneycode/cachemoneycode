@@ -4,9 +4,11 @@
 ### About Me:    
 I ♥️ Poker
 
-💰 Codename: CacheMoney, cypherpunk, programmer, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
+💰 [Cypherpunk]CacheMoney, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), software for the people
 
 🎉 Just for fun
+
+🖕 Also, fuck unfair, rigged, closed source RNG poker software
 
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
