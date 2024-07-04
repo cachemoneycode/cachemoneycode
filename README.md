@@ -10,9 +10,6 @@ I ♥️ Poker
 
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
-- Learning Ruby and Gosu game framework
-- Learning Umbrel
-- Learning OOA/D, software design
 
 ## Languages, Frameworks and Tools 
 
