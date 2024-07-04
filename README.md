@@ -3,7 +3,7 @@
 ### About Me:    
 I ♥️ Poker
 
-💵 CacheMoney, 🂡 Open Cardroom Core Dev
+💵 Codename: <b>CacheMoney</b>, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
 
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
