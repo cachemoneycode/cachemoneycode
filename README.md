@@ -5,6 +5,8 @@ I ♥️ Poker
 
 💵 Codename: <b>CacheMoney</b>, [Open Cardroom Core Dev](https://github.com/orgs/opencardroom/people)
 
+🎉 Just for fun
+
 ### Working on: 🚀
 - [Open Cardroom](https://github.com/opencardroom), [Open Poker](https://github.com/opencardroom/openpoker)
 - Learning Ruby and Gosu game framework
