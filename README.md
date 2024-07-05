@@ -6,6 +6,8 @@
 
 💰 <b>[Cypherpunk]</b>CacheMoney, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), software for the people
 
+🧨 Risen July 4th, 2024 Independence Day, 🇺🇸 Freedom
+
 🎉 Just for fun
 
 🖕 Also, fuck unfair, rigged, company proprietary, closed source RNG poker software
