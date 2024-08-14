@@ -4,7 +4,7 @@
 ### About Me:    
 🃏 I ♥️ Poker
 
-💰 <b>[Cypherpunk]</b>CacheMoney, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), open source poker network software for hosting private server games
+💰 <b>[Cypherpunk]</b>CacheMoney, programmer, [Open Cardroom Dev](https://github.com/orgs/opencardroom/people), open source, OpenCardroom network software for hosting public/private server home games
 
 🧨 Risen July 4th, 2024 Independence Day, 🇺🇸 Freedom
 
